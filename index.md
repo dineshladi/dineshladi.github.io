@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hey y'all, this is Dinesh.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I work at Walmart Global Tech, India as a Data Scientist and I write about SQL/ML/NLP in this blog. Its mostly code snippets / tricks that I have learnt over time. Some of them might be useful for you. 
